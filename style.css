@@ -757,6 +757,17 @@ p {
     color:#575757!important;
     line-height: inherit;
 }
+#citation-auteur
+{
+    font-size: 1em;
+    font-style: normal;
+    color: #575757!important;
+}
+.h2-style{
+    font-size: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+}
 
 .med-width-whitespace {
     max-width: 800px;
