@@ -558,7 +558,6 @@ a[data-lightbox] {
 a[data-lightbox]:hover::before {
     content: "+";
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
-    font-display:optional;
     font-size: 32px;
     width: 50px;
     height: 50px;
@@ -670,7 +669,6 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-display: optional;
     font-weight: 400;
     color: #575757!important;
 }
@@ -1133,7 +1131,6 @@ label {
 }
 .contact-info > a {
     font-family: "helvetica";
-    font-display: optional;
     font-weight:bold;
     color: #575757!important;
 }
